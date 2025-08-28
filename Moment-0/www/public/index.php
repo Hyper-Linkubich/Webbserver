@@ -15,6 +15,15 @@
        <label>3 x 5 = </label>
        <input type="text" name="q2">
        <br>
+       <label>20 + 8 = </label>
+       <input type="text" name="q2">
+       <br>
+       <label>15 / 3 = </label>
+       <input type="text" name="q2">
+       <br>
+       <label>6 - 2 = </label>
+       <input type="text" name="q2">
+       <br>
        <input type="submit" value="Rätta">
    </fieldset>
 </form>
