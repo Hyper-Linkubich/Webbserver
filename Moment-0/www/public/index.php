@@ -16,13 +16,13 @@
        <input type="text" name="q2">
        <br>
        <label>20 + 8 = </label>
-       <input type="text" name="q2">
+       <input type="text" name="q3">
        <br>
        <label>15 / 3 = </label>
-       <input type="text" name="q2">
+       <input type="text" name="q4">
        <br>
        <label>6 - 2 = </label>
-       <input type="text" name="q2">
+       <input type="text" name="q5">
        <br>
        <input type="submit" value="Rätta">
    </fieldset>

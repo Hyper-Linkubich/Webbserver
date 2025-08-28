@@ -23,7 +23,7 @@
            $points++;
      	if($ans5 == 4)
            $points++;
-     	echo("<p>" . $name . "fick " . $points . " av 5 möjliga</p>");
+     	echo("<p>" . $name . " fick " . $points . " av 5 möjliga</p>");
 ?>
 </body>
 </html>
